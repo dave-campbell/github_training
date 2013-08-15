@@ -1,2 +1,2 @@
-github_training
+GitHub Training Session with Production Team
 ===============
